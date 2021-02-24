@@ -1,23 +1,25 @@
+Tatjana Grencione
+print(5+6)
 1 Arhipenko Sofja
 
 2 Berga Laura
 
-3 Fiïimonovs Eldars
+3 FiÃ¯imonovs Eldars
 
-4 Gaiğute Ksenija
+4 GaiÃ°ute Ksenija
 
 5 Gorniks Arturs
 
-6 Guşonoka Jevgeòija
+6 GuÃ¾onoka JevgeÃ²ija
 
-7 Isaèenko Aleksandrs
+7 IsaÃ¨enko Aleksandrs
 
-8 Komağilo Dmitrijs
+8 KomaÃ°ilo Dmitrijs
 
-9 Lukjanèikova Darja
+9 LukjanÃ¨ikova Darja
 
 10 Minalto Jana
 
 11 Obrazcova Marija
 
-12 Ğvacka Marija
+12 Ãvacka Marija
